@@ -1,5 +1,6 @@
 SEN208 - Data Structures
- 🧬 DNA Sequence Checker
+
+🧬 DNA Sequence Checker
 
 A C++ console application that checks if a DNA sequence is valid using Stack and Queue data structures.
 
